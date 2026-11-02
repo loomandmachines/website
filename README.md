@@ -6,10 +6,10 @@ This repository is our website: one hand-built page in plain HTML, CSS and a few
 
 ## What's here
 
-- `index.html` – the page
-- `styles.css` – layout and type
-- `script.js` – the phone menu
-- `images/` – photographs and the branding reel
+- `index.html`: the page
+- `styles.css`: layout and type
+- `script.js`: the phone menu
+- `images/`: photographs and the branding reel
 
 ## Run it locally
 
